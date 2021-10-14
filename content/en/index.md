@@ -1,5 +1,6 @@
 ---
-title: 'Home'
+title: ''
+menuTitle: 'Home'
 description: ''
 position: 1
 category: 'GETTING STARTED'
