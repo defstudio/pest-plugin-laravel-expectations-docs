@@ -58,3 +58,5 @@ test('home is rendered', function () {
     expect($response)->toBeSuccessful();
 });
 ```
+
+Get the full source code at [https://github.com/def-studio/pest-plugin-laravel-expectations](https://github.com/def-studio/pest-plugin-laravel-expectations)

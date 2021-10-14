@@ -4,6 +4,7 @@ menuTitle: Authentication
 description: ''
 category: 'Expectations'
 fullscreen: false
+position: 4
 ---
 
 ### `toBeAuthenticated()`

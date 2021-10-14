@@ -4,6 +4,7 @@ menuTitle: Storage
 description: ''
 category: 'Expectations'
 fullscreen: false
+position: 4
 ---
 
 ### `toExistInStorage()`

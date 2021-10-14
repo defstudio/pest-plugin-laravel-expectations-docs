@@ -4,6 +4,7 @@ menuTitle: Collections
 description: ''
 category: 'Expectations'
 fullscreen: false
+position: 4
 ---
 
 ### `toBeCollection()`
