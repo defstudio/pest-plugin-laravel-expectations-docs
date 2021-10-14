@@ -6,7 +6,7 @@ category: 'Expectations'
 fullscreen: false
 position: 4
 ---
-## test
+
 ### `toBeSuccessful()`
 
 Assert that the response has a successful status code.
