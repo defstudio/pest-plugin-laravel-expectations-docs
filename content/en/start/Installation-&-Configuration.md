@@ -4,6 +4,7 @@ menuTitle: 'Installation'
 description: ''
 position: 2
 category: 'GETTING STARTED'
+fullscreen: true
 ---
 
 <alert type="info">**Note:** This plugin assumes you already have a working [Pest](https://pestphp.com) test suite in your Laravel project.</alert>

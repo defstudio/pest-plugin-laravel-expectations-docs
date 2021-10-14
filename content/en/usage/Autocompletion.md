@@ -4,6 +4,7 @@ menuTitle: 'Autocompletion'
 description: ''
 position: 3
 category: 'GETTING STARTED'
+fullscreen: true
 ---
 
 ## PhpStorm Autocompletion
