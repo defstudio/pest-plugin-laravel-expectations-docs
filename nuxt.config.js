@@ -9,6 +9,6 @@ export default theme({
     liveEdit: false
   },
   router: {
-    base: '/docs/pest-laravel-expectations'
+    base: '/pest-plugin-laravel-expectations-docs'
   }
 })
