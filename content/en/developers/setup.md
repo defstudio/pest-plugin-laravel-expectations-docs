@@ -3,7 +3,7 @@ title: Development Environment Setup
 menuTitle: Dev. Setup
 description: ''
 category: 'Developers'
-fullscreen: false
+fullscreen: true
 position: 5
 ---
 

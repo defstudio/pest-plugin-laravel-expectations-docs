@@ -3,7 +3,7 @@ title: Test your code
 menuTitle: Testing
 description: ''
 category: 'Developers'
-fullscreen: false
+fullscreen: true
 position: 5
 ---
 

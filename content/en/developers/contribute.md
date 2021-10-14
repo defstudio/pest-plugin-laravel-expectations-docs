@@ -2,7 +2,7 @@
 title: Contribute
 description: ''
 category: 'Developers'
-fullscreen: false
+fullscreen: true
 position: 5
 ---
 
