@@ -11,23 +11,23 @@ fullscreen: true
 
 
 <a href="https://packagist.org/packages/defstudio/pest-plugin-laravel-expectations" target="_blank">
-    <img src="https://img.shields.io/packagist/v/defstudio/pest-plugin-laravel-expectations.svg?style=flat-square" alt="Latest Version on Packagist">
+    <img style="display: inline-block" src="https://img.shields.io/packagist/v/defstudio/pest-plugin-laravel-expectations.svg?style=flat-square" alt="Latest Version on Packagist">
 </a>
 
 <a href="https://github.com/def-studio/pest-plugin-laravel-expectations/actions?query=workflow%3A'Run+Tests'+branch%3Amain" target="_blank">
-    <img src="https://img.shields.io/github/workflow/status/def-studio/pest-plugin-laravel-expectations/Run%20Tests?label=tests" alt="GitHub Tests Action Status">
+    <img style="display: inline-block" src="https://img.shields.io/github/workflow/status/def-studio/pest-plugin-laravel-expectations/Run%20Tests?label=tests" alt="GitHub Tests Action Status">
 </a>
 
 <a href="https://github.com/def-studio/pest-plugin-laravel-expectations/actions?query=workflow%3A'Static+Analysis'+branch%3Amain" target="_blank">
-    <img src="https://img.shields.io/github/workflow/status/def-studio/pest-plugin-laravel-expectations/Static%20Analysis?label=code%20style" alt="GitHub Code Style Action Status">
+    <img style="display: inline-block" src="https://img.shields.io/github/workflow/status/def-studio/pest-plugin-laravel-expectations/Static%20Analysis?label=code%20style" alt="GitHub Code Style Action Status">
 </a>
 
 <a href="https://packagist.org/packages/defstudio/pest-plugin-laravel-expectations" target="_blank">
-    <img src="https://img.shields.io/packagist/dt/defstudio/pest-plugin-laravel-expectations.svg?style=flat-square" alt="Total Downloads">
+    <img style="display: inline-block" src="https://img.shields.io/packagist/dt/defstudio/pest-plugin-laravel-expectations.svg?style=flat-square" alt="Total Downloads">
 </a>
 
 <a href="https://packagist.org/packages/defstudio/pest-plugin-laravel-expectations" target="_blank">
-    <img src="https://img.shields.io/packagist/l/defstudio/pest-plugin-laravel-expectations" alt="License">
+    <img style="display: inline-block" src="https://img.shields.io/packagist/l/defstudio/pest-plugin-laravel-expectations" alt="License">
 </a>
 
 

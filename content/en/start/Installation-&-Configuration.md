@@ -19,8 +19,3 @@ composer require --dev defstudio/pest-plugin-laravel-expectations
 ```
 
 The expectations added by this plugin are automatically loaded into Pest's expectation system. They can be used along other expectations.
-
-
-## Autocompletion
-
-For PhpStorm users, a nice Plugin has been developed by [Oliver Nybroe](https://github.com/olivernybroe). It adds full autocompletion to ours Laravel Expectations, it is worth to take a look: [https://github.com/pestphp/pest-intellij](https://github.com/pestphp/pest-intellij)
