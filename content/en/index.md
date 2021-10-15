@@ -1,6 +1,6 @@
 ---
 title: ''
-menuTitle: 'Home'
+menuTitle: 'Introduction'
 description: ''
 position: 1
 category: 'GETTING STARTED'
@@ -60,3 +60,6 @@ test('home is rendered', function () {
 ```
 
 Get the full source code at [https://github.com/def-studio/pest-plugin-laravel-expectations](https://github.com/def-studio/pest-plugin-laravel-expectations)
+
+
+This plugin is powered by [def:studio](https://github.com/def-studio)
