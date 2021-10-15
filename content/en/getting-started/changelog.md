@@ -6,7 +6,7 @@ category: 'GETTING STARTED'
 fullscreen: false
 ---
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. For a full understanding of what changed, [see the releases page](https://github.com/def-studio/pest-plugin-laravel-expectations/releases)
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
