@@ -1,7 +1,7 @@
 ---
-title: 'Introduction'
+title: 'Pest Laravel Expectations'
 menuTitle: 'Introduction'
-description: ''
+description: 'Laravel taillored @pestphp expectaions for web artisans'
 position: 1
 category: 'GETTING STARTED'
 fullscreen: true
