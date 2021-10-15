@@ -3,7 +3,7 @@ title: Contribute
 description: ''
 category: 'Developers'
 fullscreen: true
-position: 5
+position: 20
 ---
 
 Contributions are welcome, and are accepted via pull requests.

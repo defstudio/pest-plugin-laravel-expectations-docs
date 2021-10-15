@@ -4,7 +4,7 @@ menuTitle: Database
 description: ''
 category: 'Expectations'
 fullscreen: false
-position: 4
+position: 10
 ---
 
 ### `toBeInDatabase()`
